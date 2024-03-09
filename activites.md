@@ -1,17 +1,12 @@
 ---
-title: Activités
+title: "Activités"
 order: 1
+in_menu: true
 ---
+La Société Lausannoise d’Esperanto (LES) a vu le jour en 1906; elle est membre de l’Union des Sociétés locales. 
 
-L’association cherche à œuvrer en collaboration avec des organismes publics, des organisations privées et des individus.
+Aujourd’hui, elle compte une soixantaine de membres actifs et soutiens qui se réunissent pour des conférences, des projections ou simplement pour « babiller » lors des babilada rondo.
 
-## Nos activités
+	
 
-A titre indicatif, les activités commerciales possibles sont (liste non-exhaustive) :
-
-- Accompagnement à la **création de structures** juridiques
-- Conception, développement et accompagnement de **produits innovants**
-- **Formation** d’enfants et d’adultes, par exemple dans les domaines de la communication non-violente, méthodologie lean et approche agile, les relations aux animaux, l’alimentation, la gestion de budget familial ou d’entreprise…
-- Projets à **impact environnemental positif**
-- Projets à **impact social positif**
-- Vente d’objets ou de denrées alimentaires, avec **impact humain ou environnemental positif**
+Elle organise régulièrement un cours de 10 leçons gratuites – dans la région ou sur internet - qui permettent à chacun d’acquérir les bases de la langue internationale. 
