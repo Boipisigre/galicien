@@ -1,6 +1,6 @@
 ---
 title: "Les nouvelles"
-order: 5
+order: 2
 in_menu: true
 ---
 Le site contient la liste des 6 dernières feuilles mensuelles

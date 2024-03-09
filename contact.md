@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-order: 1
+order: 3
 in_menu: true
 ---
 Notre association compte actuellement plus de 60 membres.
