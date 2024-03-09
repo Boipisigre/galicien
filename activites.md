@@ -15,3 +15,5 @@ Aujourd’hui, elle compte une soixantaine de membres actifs et soutiens qui se 
 
 	
 Elle organise régulièrement un cours de 10 leçons gratuites – dans la région ou sur internet - qui permettent à chacun d’acquérir les bases de la langue internationale. 
+
+Elle gère une [bibliothèque](https://biblioteko.galicien.me) de livres en Esperanto et en Français 
