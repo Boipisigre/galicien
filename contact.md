@@ -1,9 +1,11 @@
 ---
-title: Contact
+title: "Contact"
 order: 1
+in_menu: true
 ---
+Notre association compte actuellement plus de 60 membres.
 
-L'Échappée Belle est actuellement composée de 6 membres.
-
-Pour nous contacter : [coucou@lechappeebelle.team](mailto:coucou@lechappeebelle.team)
-`
+Nous contacter : 
+* Par email [info](info@esperanto-lausanne.ch)
+* Par téléphone :  021 647 29 28
+` 
