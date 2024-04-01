@@ -4,4 +4,3 @@ collections:
 plugins:
   - jekyll-feed
 theme: mimoza
-baseurl: /galicien
