@@ -3,10 +3,10 @@ title: "Les nouvelles"
 order: 2
 in_menu: true
 ---
-Le site contient la liste des dernières feuilles mensuelles
+LVoici la liste des dernières feuilles mensuelles
 
-* [Informilo Aprilo]({% link images/2024 Aprilo.pdf %})
+* [Informilo Majoo]({% link images/2405 Majo.pdf %})
+* [Informilo Aprilo]({% link images/2404 Aprilo.pdf %})
 * [Informilo Marto]({% link images/2403 Marto.pdf %})
 * [Informilo Februaro]({% link images/2402 Februaro.pdf %})
 * [Informilo Januaro]({% link images/2401 Januaro.pdf %})
-* [Informilo Decembre]({% link images/2401 Januaro.pdf %}) 
