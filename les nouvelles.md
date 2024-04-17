@@ -5,7 +5,7 @@ in_menu: true
 ---
 LVoici la liste des dernières feuilles mensuelles
 
-* [Informilo Majoo]({% link images/2405 Majo.pdf %})
+* [Informilo Majo]({% link images/2405 Majo.pdf %})
 * [Informilo Aprilo]({% link images/2404 Aprilo.pdf %})
 * [Informilo Marto]({% link images/2403 Marto.pdf %})
 * [Informilo Februaro]({% link images/2402 Februaro.pdf %})

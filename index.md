@@ -5,7 +5,7 @@ in_menu: true
 ---
 # Esperanto-lausanne.ch
 
-Le site est **la version** qui a pour objet de montrer comment l'outil **Scribouilli** peut être utiliser pour maintenir un site pour l'association d'esperanto de Lausanne.
+Le site est **la version test** qui a pour objet de montrer la future version du site pour l'association d'esperanto de Lausanne.
 
 Accueil
 
